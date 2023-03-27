@@ -1,0 +1,736 @@
+
+29-09-2021 14:24:38 [wordpress.loc][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-1-6.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44293&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-1-6.jpg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-2-7.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44294&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-2-7.jpg',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-3-6.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44295&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-3-6.jpg',
+    'title' =&gt; '',
+  ),
+  3 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-4-6.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44296&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-4-6.jpg',
+    'title' =&gt; '',
+  ),
+  4 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-5-4.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44297&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-5-4.jpg',
+    'title' =&gt; '',
+  ),
+  5 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-6-3.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44298&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-6-3.jpg',
+    'title' =&gt; '',
+  ),
+  6 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-7-3.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44299&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-7-3.jpg',
+    'title' =&gt; '',
+  ),
+  7 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-8-2.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44300&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-8-2.jpg',
+    'title' =&gt; '',
+  ),
+  8 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-9-2.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44301&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-9-2.jpg',
+    'title' =&gt; '',
+  ),
+  9 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-10-2.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44302&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-10-2.jpg',
+    'title' =&gt; '',
+  ),
+  10 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-11-2.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44303&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-11-2.jpg',
+    'title' =&gt; '',
+  ),
+)
+29-09-2021 14:24:38 [wordpress.loc][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-1-6.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44293&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-1-6.jpg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-2-7.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44294&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-2-7.jpg',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-3-6.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44295&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-3-6.jpg',
+    'title' =&gt; '',
+  ),
+  3 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-4-6.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44296&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-4-6.jpg',
+    'title' =&gt; '',
+  ),
+  4 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-5-4.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44297&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-5-4.jpg',
+    'title' =&gt; '',
+  ),
+  5 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-6-3.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44298&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-6-3.jpg',
+    'title' =&gt; '',
+  ),
+  6 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-7-3.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44299&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-7-3.jpg',
+    'title' =&gt; '',
+  ),
+  7 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-8-2.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44300&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-8-2.jpg',
+    'title' =&gt; '',
+  ),
+  8 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-9-2.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44301&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-9-2.jpg',
+    'title' =&gt; '',
+  ),
+  9 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-10-2.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44302&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-10-2.jpg',
+    'title' =&gt; '',
+  ),
+  10 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-11-2.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-44303&quot;/&gt;',
+    'url' =&gt; 'https://www.kidsplaza.vn/blog/wp-content/uploads/2019/11/%E1%BA%A3nh-11-2.jpg',
+    'title' =&gt; '',
+  ),
+)
+-------------------------------
+29-09-2021 14:25:53 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+29-09-2021 14:27:30 [wordpress.loc][warning] The post (261) has already been assigned a featured image
+29-09-2021 14:27:30 [wordpress.loc][warning] The post (261) has already been assigned a featured image
+-------------------------------
+29-09-2021 14:29:30 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+29-09-2021 14:29:45 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+29-09-2021 14:33:26 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+29-09-2021 14:35:34 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:36:34 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:37:34 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:39:09 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:40:09 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:41:09 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:42:04 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 14:42:04 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:42:04 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:44:09 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:46:09 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:47:09 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:48:10 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:48:32 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:49:03 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 14:49:03 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:49:03 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:53:50 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 14:53:50 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:53:50 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:54:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:54:22 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:54:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:54:22 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:54:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:54:22 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:54:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:54:22 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:54:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:54:22 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:54:22 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 14:54:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:54:22 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:54:31 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:54:31 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:54:31 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:54:31 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 14:54:31 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:54:31 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:55:28 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 14:57:08 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:57:08 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:57:09 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:57:09 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:57:09 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:57:09 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:57:09 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:57:09 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:57:09 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:57:09 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:57:09 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:57:09 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:57:09 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:57:09 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:57:09 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:57:09 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 14:57:09 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 14:57:09 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 14:57:09 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 15:12:40 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:40 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:40 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:40 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:40 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:40 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:40 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:40 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:40 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:40 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:40 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:40 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:40 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:40 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:40 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:40 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:40 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:40 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:40 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:40 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:40 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:40 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:41 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:41 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:41 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:41 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:12:41 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 15:12:41 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:12:41 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 15:29:20 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:29:20 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:29:20 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:29:20 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:29:20 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:29:20 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:29:20 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:29:20 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:29:20 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:29:20 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:29:20 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:29:20 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:29:20 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:29:20 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:29:20 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:29:20 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:29:21 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:29:21 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:29:21 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:29:21 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:29:21 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:29:21 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:29:21 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 15:29:21 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:29:21 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 15:34:46 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:46 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 15:34:47 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:34:47 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 15:39:21 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:39:21 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:39:21 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:39:21 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:39:21 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:39:21 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:39:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:39:22 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:39:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:39:22 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:39:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:39:22 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:39:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:39:22 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:39:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:39:22 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:39:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:39:22 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:39:22 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 15:39:22 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:39:22 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 15:40:35 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 15:40:54 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:40:54 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:40:54 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:40:54 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:40:54 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:40:54 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:40:54 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:40:54 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:40:54 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:40:54 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:40:54 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:40:54 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:40:54 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:40:54 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:40:54 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:40:54 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:40:54 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:40:54 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:40:54 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:40:54 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:40:54 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 15:40:54 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:40:54 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 15:42:04 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:42:04 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:42:04 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:42:04 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:42:04 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:42:04 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:42:04 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:42:04 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:42:04 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 15:42:04 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:42:04 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 15:44:10 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:44:10 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:44:10 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:44:10 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:44:11 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:44:11 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:44:11 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:44:11 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:44:11 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:44:11 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 15:44:11 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 15:44:11 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 15:44:11 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 15:55:09 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+29-09-2021 16:00:44 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:42 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:42 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (nav_menu_item) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+29-09-2021 16:10:43 [wordpress.loc][debug] Found images: array (
+)
+29-09-2021 16:10:43 [wordpress.loc][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+29-09-2021 16:12:27 [wordpress.loc][warning] The post (324) has already been assigned a featured image
+29-09-2021 16:12:27 [wordpress.loc][warning] The post (324) has already been assigned a featured image
+-------------------------------
+29-09-2021 16:12:45 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+29-09-2021 16:14:36 [wordpress.loc][warning] The post (327) has already been assigned a featured image
+29-09-2021 16:14:37 [wordpress.loc][warning] The post (327) has already been assigned a featured image
+-------------------------------
+29-09-2021 16:14:55 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+29-09-2021 16:16:31 [wordpress.loc][warning] The post (330) has already been assigned a featured image
+29-09-2021 16:16:31 [wordpress.loc][warning] The post (330) has already been assigned a featured image
+-------------------------------
+29-09-2021 16:26:34 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+29-09-2021 16:26:48 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+29-09-2021 16:27:47 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+29-09-2021 16:28:00 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+29-09-2021 16:37:11 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+29-09-2021 16:39:07 [wordpress.loc][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
